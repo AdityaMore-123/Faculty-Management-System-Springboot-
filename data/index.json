@@ -1,0 +1,28 @@
+{
+    "title": "Faculty Management System",
+    "team": [
+        {
+            "name": "Somawansha M.V.N.L.",
+            "email": "e19492@eng.pdn.ac.lk",
+            "eNumber": "E/19/492"
+        },
+        {
+            "name": "Wimalasiri P.M.A.C.",
+            "email": "e19452@eng.pdn.ac.lk",
+            "eNumber": "E/19/452"
+
+        },
+        {
+            "name": "Perera A.P.T.T.",
+            "email": "e19278@eng.pdn.ac.lk",
+            "eNumber": "E/19/278"
+        }
+    ],
+    "supervisors": [
+        {
+            "name": "Dr. Manjula Sandirigama",
+            "email": "manjula.sandirigama@eng.pdn.ac.lk"
+        }
+    ],
+    "tags": []
+}
